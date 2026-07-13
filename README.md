@@ -19,4 +19,4 @@
 
 ## Background
 
-BBA + MBA in Commercial Management and Market Intelligence. Before analytics: 3 years managing commercial and registration operations at a credit union I build analyses for the people who actually use them.
+BBA + MBA in Commercial Management and Market Intelligence. Before analytics: 3 years managing commercial and registration operations at a credit union. I build analyses for the people who actually use them.
