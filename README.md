@@ -5,7 +5,7 @@
 
 ## What I've built
 
-**Pricing BI Platform** — Python/Dash pricing platform covering 450 products, consolidating 5 Excel data sources into one validated database. Deployed on a self-managed Linux server (Nginx/Gunicorn) with a mobile PWA. Serves 20 daily users and cut report generation from 2 days to 1 hour (~94%). *Proprietary — sanitized demo version in progress; architecture walkthrough available on request.*
+**Pricing BI Platform** — Python/Dash pricing platform covering 450 products, consolidating 5 Excel data sources into one validated database. Deployed on a self-managed Linux server (Nginx/Gunicorn) with a mobile PWA. Serves 20 daily users and cut report generation from 2 days to 1 hour (~94%). *Proprietary sanitized demo version in progress; architecture walkthrough available on request.*
 
 **Executive Inventory Reporting** — Streamlit tool with two-month comparison views, used directly in board meetings for stocking and capacity decisions. *Proprietary.*
 
