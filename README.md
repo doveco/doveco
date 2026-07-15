@@ -7,7 +7,7 @@
 
 **Pricing BI Platform** — Python/Dash pricing platform covering 450 products, consolidating 5 Excel data sources into one validated database. Deployed on a self-managed Linux server (Nginx/Gunicorn) with a mobile PWA. Serves 20 daily users and cut report generation from 2 days to 1 hour (~94%). *Proprietary. Sanitized demo available [pricing-platform-demo](https://github.com/doveco/pricing-platform-demo); architecture walkthrough available on request.*
 
-**Executive Inventory Reporting** — Streamlit tool with two-month comparison views, used directly in board meetings for stocking and capacity decisions. *Proprietary.*
+**Executive Inventory Reporting** — Streamlit tool with two-month comparison views, used directly in board meetings for stocking and capacity decisions. *Proprietary. Sanitized demo available [inventory-report-demo](https://github.com/doveco/inventory-report-demo);architecture walkthrough available on request.*
 
 **[Going Forward](https://github.com/doveco/going-forward)** — Full-stack personal goals tracker: React Native/Expo (TypeScript) frontend + Node/Express backend integrating Gemini AI and the TMDB API. Local-first data with AsyncStorage, AI-generated goal suggestions, weekly progress summaries, and a media tracker. Running in production on my own device.
 
